@@ -6,6 +6,8 @@ while playing games like League of Legends, Starcraft, or other MOBA games.
 It uses eye tracking to check whether you have checked your minimap with certain frequency and, if you
 haven't, it emits a visual or audio alarm.
 
+![sample](https://user-images.githubusercontent.com/35032606/172874981-72aeff77-5bc7-4b42-9511-ea27b3c4cd90.gif)
+
 # Eye tracking #
 
 The current implementation uses the [Eyeware Beam](https://beam.eyeware.tech/developers/) iOS application
