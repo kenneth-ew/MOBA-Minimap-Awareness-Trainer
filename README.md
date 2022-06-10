@@ -29,6 +29,7 @@ Assuming you are using Eyeware Beam as an eye tracker (see previous section), th
     2. The volume is the volume of the alarm. You can also check/uncheck if you want a visual indicator (a flashing red square on the minimap location)
 
 ![image](https://user-images.githubusercontent.com/35032606/173070003-d13b0154-f393-4d19-9d38-bb264fbe481e.png)
+
 6.  Click on Start
 
 # How to develop and set it up? ###
