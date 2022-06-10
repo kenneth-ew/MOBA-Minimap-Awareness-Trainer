@@ -11,7 +11,22 @@ haven't, it emits a visual or audio alarm.
 # Eye tracking #
 
 The current implementation uses the [Eyeware Beam](https://beam.eyeware.tech/developers/) iOS application
-that transforms iPhones or iPads having faceid into an eye tracker device for a PC.
+that transforms iPhones or iPads, supporting faceid, into an eye tracker device for a Windows PC (_**Note**: access to the API is a paid feature_). 
+
+# I'm a gamer, not a developer, how do I use it? #
+
+Assuming you are using Eyeware Beam as an eye tracker (see previous section), then follow these instructions:
+
+1.  Download the latest Release here: https://github.com/kenneth-ew/minimap_trainer/releases
+2.  Unzip and run _minimap_trainer.exe_
+3.  If the eye tracker is running and API accessible (see previous section), then the user interface should display "Connected to eye tracker..."
+4.  Click on _Set minimap location_ allowing you to indicate where the minimap is in your game by a click-move-and-release action. Press Esc when ready.
+![image](https://user-images.githubusercontent.com/35032606/173069164-1acd2d4a-e1d2-4a6f-9091-3b2f764cc3fd.png)
+5.  Configure your alarm/trainer settings:
+    1. Set the "Alarm timeout (seconds)", which is the time you will be allowed not to look at the minimap, before an alarm is triggered. Everytime you look at the minimap, the time count is reset and no alarm is triggered. So keep looking at the minimap once in a while!
+    2. The volume is the volume of the alarm, and whether you want a visual indicator (a flashing red square on the minimap location)
+![image](https://user-images.githubusercontent.com/35032606/173070003-d13b0154-f393-4d19-9d38-bb264fbe481e.png)
+6.  Click on Start
 
 # How do I get set up? ###
 
