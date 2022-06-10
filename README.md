@@ -8,7 +8,7 @@ haven't, it emits a visual or audio alarm.
 
 ![sample](https://user-images.githubusercontent.com/35032606/172874981-72aeff77-5bc7-4b42-9511-ea27b3c4cd90.gif)
 
-# Eye tracking #
+# Eye tracker #
 
 The current implementation uses the [Eyeware Beam](https://beam.eyeware.tech/developers/) iOS application
 that transforms iPhones or iPads, supporting faceid, into an eye tracker device for a Windows PC (_**Note**: access to the API is a paid feature_). 
@@ -24,7 +24,7 @@ Assuming you are using Eyeware Beam as an eye tracker (see previous section), th
 ![image](https://user-images.githubusercontent.com/35032606/173069164-1acd2d4a-e1d2-4a6f-9091-3b2f764cc3fd.png)
 5.  Configure your alarm/trainer settings:
     1. Set the "Alarm timeout (seconds)", which is the time you will be allowed not to look at the minimap, before an alarm is triggered. Everytime you look at the minimap, the time count is reset and no alarm is triggered. So keep looking at the minimap once in a while!
-    2. The volume is the volume of the alarm, and whether you want a visual indicator (a flashing red square on the minimap location)
+    2. The volume is the volume of the alarm. You can also check/uncheck if you want a visual indicator (a flashing red square on the minimap location)
 ![image](https://user-images.githubusercontent.com/35032606/173070003-d13b0154-f393-4d19-9d38-bb264fbe481e.png)
 6.  Click on Start
 
