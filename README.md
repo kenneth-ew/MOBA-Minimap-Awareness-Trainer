@@ -1,7 +1,6 @@
 # Overview #
  
-[Discord](https://discord.com/invite/B7E5eXBz) | [Eye Tracker on iOS](https://apps.apple.com/us/app/eyeware-beam/id1538790472)
-[Developers](https://beam.eyeware.tech/developers/) | [API Docs](https://docs.beam.eyeware.tech/) | [Eye Tracker SDK](https://eyewarecistorage.blob.core.windows.net/beam-sdk/BeamSDK-Windows64-1.1.0.zip)
+[Discord](https://discord.com/invite/B7E5eXBz) | [Eye Tracker on iOS](https://apps.apple.com/us/app/eyeware-beam/id1538790472) | [Developers](https://beam.eyeware.tech/developers/) | [API Docs](https://docs.beam.eyeware.tech/) | [Eye Tracker SDK](https://eyewarecistorage.blob.core.windows.net/beam-sdk/BeamSDK-Windows64-1.1.0.zip)
 
 The simple Python / QT web application reminds esports gamers to check the minimap in their favorite MOBA and MMOPRG PC games, including League of Legends, Dota 2,  Starcraft 2, and even games without a minimap like Overwatch, and Smite, helping you train checking gears, ammo, etc.
 
