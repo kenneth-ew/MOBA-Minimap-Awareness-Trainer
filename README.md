@@ -1,6 +1,6 @@
 # Overview #
 
-The simple Python / QT web application reminds esports gamers to check the minimap in their favorite MOBA and MMOPRG PC games, including League of Legends, Dota 2,  Starcraft 2, and even non-MOBA games like Overwatch, and Smite, helping you train checking gears, ammo, etc.
+The simple Python / QT web application reminds esports gamers to check the minimap in their favorite MOBA and MMOPRG PC games, including League of Legends, Dota 2,  Starcraft 2, and even games without a minimap like Overwatch, and Smite, helping you train checking gears, ammo, etc.
 
 The app tracks a gamer’s visual attention with eye tracking to check whether the gamer has looked at the minimap within a specified amount of time. A visual or audio alarm alerts the gamer If he or she forgets to look at the minimap within the specified time.
 
