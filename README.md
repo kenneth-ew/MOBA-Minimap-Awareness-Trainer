@@ -6,11 +6,11 @@ The app tracks a gamer’s visual attention with eye tracking to check whether t
 
 ![sample](https://user-images.githubusercontent.com/35032606/172874981-72aeff77-5bc7-4b42-9511-ea27b3c4cd90.gif)
 
-# How does this tool help me become a better gamer? #
+## How does this tool help me become a better gamer? ##
 
 Improving map awareness helps gamers and their teams coordinate or prevent enemy attacks, planning successful strategies, among other uses.
 
-# Eye tracker #
+## Eye tracker ##
 
 The current implementation uses the [Eyeware Beam](https://beam.eyeware.tech/developers/) iOS app.
 The Eyeware Beam app  turns your Face ID-supported iPhone or iPad, with a built-in TrueDepth camera, into a reliable, precise, multi-purpose head and eye tracking device for a Windows PC . The eye tracker uses proprietary computer vision algorithms and machine perception AI technology that generates a robust eye tracking signal comparable to premium TrackIR or Tobii tracking devices. 
